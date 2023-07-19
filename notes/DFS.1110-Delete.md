@@ -2,12 +2,12 @@
 id: q6z39shxmm99hwytxzlm739
 title: 1110-Delete-Nodes-And-Return-Forest
 desc: ''
-updated: 1687155021024
+updated: 1688214371890
 created: 1687154683542
 ---
 # 1110. Delete Nodes And Return Forest
 
-## #dfs #medium #bottom-up<br>
+## #dfs #medium #bottom-up
 
 ## 解题思路
 
